@@ -33,13 +33,13 @@
 
 .first>div{
   min-height: 82px;
-  min-width: 390px;
-  max-width: 390px ;
+  min-width: 400px;
+  max-width: 400px ;
   padding: 2px 2px 2px 10px;
 }
 
 .first>div:last-child{
-  min-width: 157px;
+  min-width: 150px;
 }
 
 .first>div>span{
