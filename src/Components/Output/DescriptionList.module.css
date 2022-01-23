@@ -1,0 +1,73 @@
+
+
+.tableHeadings{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
+
+.tableHeadings span{
+  display: inline-block;
+  padding: 2.5px 5.5px;
+  border-right: .5px #000 solid;
+  border-bottom: .5px #000 solid;
+  min-height: 40px;
+  line-height: 34px;
+}
+
+.tableHeadings span:last-child{
+  border-right: none;
+}
+
+.tableHeadings span:nth-child(1){
+  width: 45px;
+}
+.tableHeadings span:nth-child(2){
+  min-width: 233px;
+}
+.tableHeadings span:nth-child(3){
+  min-width: 45px;
+  max-width: 45px;
+  line-height: normal;
+}
+.tableHeadings span:nth-child(4){
+  min-width: 80px;
+}
+.tableHeadings span:nth-child(5){
+  min-width: 50px;
+}
+.tableHeadings span:nth-child(6){
+  min-width: 95px;
+  line-height: normal;
+}
+
+.tableItems{
+  font-weight: 500;
+  font-size: 11px;
+}
+
+.tableItems span{
+  padding-top: 15px;
+  display: inline-block;
+  min-height: 280px;
+  font-weight: 700;
+}
+
+.tableItems span:nth-child(3){
+  line-height: 35px;
+  min-width: 45px
+}
+.tableItems span:nth-child(6){
+  min-width: 70px;
+  line-height: 35px;
+  text-align: end;
+}
+.tableItems span:nth-child(7){
+  min-width: 24.9px;
+  text-align: left;
+}

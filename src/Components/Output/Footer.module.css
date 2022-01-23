@@ -1,0 +1,35 @@
+.footer{
+  padding: 2px 10px 5px 10px;
+}
+
+.t_c{
+  text-transform: uppercase;
+  font-size: 11px;
+  padding-left: 15px;
+  margin-bottom: 2px;
+}
+
+.t_c span:first-child{
+  text-decoration: underline;
+  font-weight: 850;
+}
+
+.tc_item{
+  font-size: 8px;
+}
+
+.auth{
+  font-size: 10px;
+  float: right;
+  margin-right: 20px;
+  top: 0;
+}
+
+.nameStyle{
+  font-size: 18px;
+  float: right;
+  line-height: 10px;
+  margin: 5px 10px 0 0;
+  color: red;
+  font-family: 'Moon Dance', cursive;
+}

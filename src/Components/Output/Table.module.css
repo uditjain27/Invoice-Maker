@@ -1,0 +1,85 @@
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.first,
+.second,
+.third{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.first{
+  font-size: 11px;
+}
+
+.first>div,
+.second>span, 
+.third>span{
+  border-bottom: 1px #000 solid;
+  border-right: 1px #000 solid;
+}
+
+.first>div:last-child,
+.second>span:last-child,
+.third>span:last-child{
+  border-right: none;
+}
+
+.first>div{
+  min-height: 82px;
+  min-width: 390px;
+  max-width: 390px ;
+  padding: 2px 2px 2px 10px;
+}
+
+.first>div:last-child{
+  min-width: 157px;
+}
+
+.first>div>span{
+  display: block;
+}
+
+.first>div>span:nth-child(2){
+  min-height: 32px;
+}
+
+.first>div>span:nth-child(3)>span:first-child{
+  display: inline-block;
+  min-width: 45%;
+}
+
+.first>div>span:nth-child(3)>span:nth-child(2){
+  display: inline-block;
+  min-width: 35%;
+}
+
+
+.second>span,
+.third>span{
+  min-width: 145px;
+  font-size: 10px;
+  padding: 5px;
+}
+
+.second>span:first-child,
+.third>span:first-child{
+  min-width: 230px;
+  max-width: 230px;
+}
+
+.second>span:nth-child(2),
+.third>span:nth-child(2){
+  min-width: 170px;
+  max-width: 170px;
+}
+
+.bold{
+  font-weight: 650;
+}

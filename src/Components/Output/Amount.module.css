@@ -1,0 +1,82 @@
+.wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+
+.left,
+.right{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: flex-start;
+}
+
+.left{
+  width: 56%;
+}
+
+.right{
+  width: 44%;
+}
+
+.left>span{
+  padding: 5px 10px;
+  width: 100%;
+  border-bottom: .5px #000 solid;
+  border-right: .5px #000 solid;
+  display: inline-block;
+}
+
+.left>span:first-child{
+  height: 60px;
+}
+
+.right>div{
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+  font-size: 9px;
+  display: inline-block;
+}
+
+.right>div>span{
+  text-transform: uppercase;
+  display: inline-block;
+  border-bottom: .5px #000 solid;
+  border-right: .5px #000 solid;
+  padding: 2.5px 1.4px;
+}
+
+
+.right>div>span:first-child{
+  min-width: 145px;
+}
+.right>div>span:nth-child(2){
+  min-width: 70px;
+  text-align: end;
+  padding-right: 5px;
+  font-weight: 750;
+}
+.right>div>span:last-child{
+  min-width: 24.8px;
+  border-right: none;
+  font-weight: 750;
+}
+
+.bankDetails{
+  font-size: 10px;
+}
+
+.bold{
+  font-weight: 650;
+}
+
+
+.amountInWords{
+  font-weight: 650;
+  text-transform: uppercase;
+}

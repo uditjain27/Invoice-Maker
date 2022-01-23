@@ -1,0 +1,18 @@
+.canvas{
+  margin: 1rem;
+}
+
+.header{
+  font-size: 10px;
+  text-align: end;
+  padding: 20px 20px 5px 0;
+}
+
+.copyType{
+  font-size: 8px;
+  text-transform: uppercase;
+  margin-left: 135px;
+  margin-right: 10px;
+  font-weight: 700;
+  line-height: 10px;
+}

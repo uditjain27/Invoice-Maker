@@ -1,0 +1,61 @@
+@font-face {
+  font-family: mistral;
+  src: url(../../font/MISTRAL.TTF);
+}
+
+.header{
+  border-bottom: .5px #000 solid ;
+  padding: 3px 10px;
+  text-align: center;
+  font-size: 11px;
+}
+
+.logo{
+  position: absolute;
+  float: left;
+  height: 100px;
+  right: 550px;
+  top: 175px;
+}
+
+.taxHeading{
+  margin-left: 105px;
+  font-size: 13px;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.contact{
+  float: right;
+  font-size: 8px;
+}
+
+.contact i{
+  font-size: 9px;
+  margin-right: 4px;
+}
+
+.name{
+  width: fit-content;
+  font-size: 45px;
+  background-color: red;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: mistral;
+  margin: 5px auto 0 auto;
+}
+
+.address{
+  margin-top: 3px;
+  font-size: 10px;
+  margin-left: 25px;
+}
+
+.gstin{
+  text-align: left;
+  font-size: 12px;
+  font-family: 'Comic Sans MS', arial;
+  font-weight: 600;
+  margin-top: 3px;
+}
+
