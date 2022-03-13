@@ -6,7 +6,9 @@ export const data = [
     contactNo: 9983025474,
     state: 'RAJASTHAN',
     stateCode: 8,
-    gstin: '08AMXPC2156Q1ZB'
+    gstin: '08AMXPC2156Q1ZB',
+    transporter: 'MOHIT TRANSPORT COMPANY',
+    description: 'COTTON FABRIC'
   },
   {
     id: 2,
@@ -15,7 +17,9 @@ export const data = [
     contactNo: 'NULL',
     state: 'RAJASTHAN',
     stateCode: 8,
-    gstin: '08BQBPK3484J1ZL'
+    gstin: '08BQBPK3484J1ZL',
+    transporter : 'GANPATI TRANSPORT',
+    description: 'COTTON FABRIC'
   },
   {
     id: 3,
@@ -23,26 +27,104 @@ export const data = [
     address : 'PILI KOTHI, GURIABAGH, ALIGARH',
     contactNo: 8445220250,
     state: 'UTTAR PRADESH',
-    stateCode: 7,
+    stateCode: 9,
     gstin: 'NULL',
-    aadhar : 837875902801
+    aadhar : 837875902801,
+    transporter: 'ROSHAN TEMPO SERVICE',
+    description: 'WASTE COTTON CLOTH'
   },
   {
     id: 4,
     name: 'FATIMA NOOR STORE',
     address: 'H.No.-115, Gali No. 09, Block-D, Village Wazirabad, North Delhi, Delhi - 110084',
-    contactNo: '9350702270',
+    contactNo: 9350702270,
     state: 'DELHI',
     stateCode: 7,
     gstin: '07AFEPI0391H1ZN',
+    description: 'COTTON FABRIC'
   },
-  /*{
-    id: 1,
-    name: ,
-    address,
-    contactNo: ,
-    state:,
-    stateCode: ,
-    gstin:
-  } */
+  {
+    id: 5,
+    name: 'KALU KHAN',
+    address: '826, Amaagarh Shakti Colony, Delhi by-Pass Road, Jaipur City, Rajasthan- 302003',
+    contactNo: 9001548661,
+    state: 'RAJASTHAN',
+    stateCode: 8,
+    gstin: 'NULL',
+    aadhar: 736742613266,
+    transporter: 'Happy Transport',
+    placeOfSupply: 'JAIPUR',
+    description: 'WASTE COTTON FABRIC'
+  },
+  {
+    id: 6,
+    name: 'A MALIK',
+    address: '721, Amaagarh Shakti Colony, Delhi by-Pass Road, Jaipur City, Rajasthan- 302003 ',
+    contactNo: 9001548661,
+    state: 'RAJASTHAN',
+    stateCode: 8,
+    gstin: 'NULL',
+    aadhar: 448331441961,
+    transporter: 'Happy Transport',
+    placeOfSupply: 'JAIPUR',
+    description: 'WASTE COTTON FABRIC'
+  },
+  {
+    id: 7,
+    name: 'A ONE COLLECTION',
+    address: '3481, Nahargarh Road, Near Nimri Ploce Chowki, Jaipur, Rajasthan',
+    contactNo: 9928561305,
+    state: 'RAJASTHAN',
+    stateCode: 8,
+    gstin: '08AJGPB9284L1ZQ',
+    transporter: 'GANPATI TRANSPORT',
+    placeOfSupply: 'RAJASTHAN',
+    description: 'COTTON FABRIC'
+  },
+  {
+    id: 8,
+    name: 'SHREE BALAJI ENTERPRISES',
+    address: '4, CHOWRINGEE LANE, DIAMOND CHAMBER, BLOCK-III, 2nd FLOOR, ROOM NO. – 2F, KOLKATTA, WEST BENGAL-700016',
+    contactNo: 9831325882,
+    state: 'WEST BENGAL',
+    stateCode: 19,
+    gstin: '19AEAPA5865K1ZC',
+    transporter: 'PATEL FLIGHT',
+    placeOfSupply: 'KOLKATA',
+    description: 'GEORGETTE'
+  },
+  {
+    id: 9,
+    name: 'ARCHIES CREATION',
+    address: 'IIIrd Floor, T-29, 11 Sudder Street, Kolkata, West Bengal-700016',
+    contactNo: 9830221516,
+    state: 'WEST BENGAL',
+    stateCode: 19,
+    gstin: '19ABAFA2122L1ZP',
+    transporter: 'PATEL FLIGHT',
+    placeOfSupply: 'KOLKATA',
+    description: 'GEORGETTE'
+  },
+  {
+    id: 10,
+    name: 'VIPIN ENTERPRISES',
+    address: 'IX/5172, SHOP NUMBER-6, CHAUDHARY BHANWAR SINGH MARKET, SHANTI MOHOLLA, OLD SEELAMPUR, DELHI - 110031',
+    contactNo: 9810611329,
+    state: 'DELHI',
+    stateCode: 7,
+    gstin: '07AEXPJ5246G1Z3',
+    description: 'COTTON CLOTH'
+  },
+  // {
+  //   id: 10,
+  //   name: '',
+  //   address: '',
+  //   contactNo: ,
+  //   state: '',
+  //   stateCode: ,
+  //   gstin: '',
+  //   transporter: '',
+  //   placeOfSupply: '',
+  //   description: ''
+  // },
 ]

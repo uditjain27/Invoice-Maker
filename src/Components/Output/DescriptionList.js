@@ -26,10 +26,10 @@ const DescriptionList = (props) => {
       </section>
       <section className={`${classes.tableHeadings} ${classes.tableItems}`}>
         <span>{props.details.id}</span>
-        <span>{props.details.description}</span>
-        <span>{props.details.hsn}</span>
-        <span>{props.details.quantity}</span>
-        <span>{props.details.rate}/-</span>
+        <span>{props.description}</span>
+        <span>{props.hsn ? props.hsn : ''}</span>
+        <span>{parseInt(props.details.quantity).toLocaleString('en-IN')}</span>
+        <span>{parseInt(props.details.rate).toLocaleString('en-IN')}/-</span>
         <span>{parseInt(props.details?.total).toLocaleString('en-IN') == 'NaN' ? '00' : parseInt(props.details?.total).toLocaleString('en-IN')}</span>
         <span>{dec}</span>
       </section>

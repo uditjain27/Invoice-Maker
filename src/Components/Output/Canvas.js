@@ -14,7 +14,8 @@ const Canvas = (props) => {
         invoiceNumber={props.invoiceNumber}
         invoiceDate={props.invoiceDate}
       ></InfoTable>
-      <DescriptionList details={props.details} />
+      <DescriptionList details={props.details}
+      description={props.sellerDetails.description}/>
       <Amount amount={props.details} />
       <Footer></Footer>
     </div>

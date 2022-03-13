@@ -180,10 +180,27 @@ const AllInputs = (props) => {
     props.setDetails(prev);
   };
 
+  const radioOnChange = () => {
+    const copytype = document.querySelector('input[name="copytype"]:checked');
+    console.log(copytype);
+    props.setType(copytype.value.toString());
+  }
+
   return (
     <div className={style.half_width}>
       <form>
         <div id='sellerName'>
+          <div>
+            <label htmlFor='printType'>Copy Type : </label>
+            <span>
+              <input type='radio' value='buyer'  name='copytype' id='buyer' onChange={radioOnChange} checked='true'></input>
+              <label htmlFor='buyer'>Buyer</label>
+            </span>
+            <span>
+              <input type='radio' value='transporter' name='copytype' id='transporter' onChange={radioOnChange}></input>
+              <label htmlFor='transporter'>Transporter</label>
+            </span>
+          </div>
           <div>
             <label htmlFor='seller'>Choose Seller : </label>
             <select name='seller' id='sellerInfo' onChange={selectSeller}>

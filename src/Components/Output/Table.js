@@ -58,8 +58,8 @@ const InfoTable = (props) => {
       </div>
       <div className={classes.second}>
         <span>GR/LR No. : </span>
-        <span>Place of Supply :
-          <span className={classes.bold}>{props.sellerDetails.state}</span>
+        <span>Place of Supply :&nbsp;
+          <span className={classes.bold}>{props.sellerDetails.placeOfSupply ? props.sellerDetails.placeOfSupply : props.sellerDetails.state}</span>
         </span>
         <span>Dated :
           <span className={classes.bold}>
@@ -70,7 +70,7 @@ const InfoTable = (props) => {
       <div className={classes.third}>
         <span>
           <span>Transporter : </span>
-          <span className={classes.bold}>{props.sellerDetails.transporter ? props.sellerDetails : ''}</span>
+          <span className={classes.bold}>{props.sellerDetails.transporter ? props.sellerDetails.transporter : ''}</span>
         </span>
         <span>Vehicle No. : </span>
         <span>Station : </span>

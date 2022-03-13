@@ -11,6 +11,7 @@ const HomePage = (props) => {
   const [productDetails, setProductDetails] = useState({});
   const [invoiceDate, setInvoiceDate] = useState('2022-01-01');
   const [invoiceNumber, setInvoiceNumber] = useState();
+  const [printType, setPrintType] = useState('buyer');
 
   const selectSeller = (seller) => {
     setSeller(seller);
@@ -28,11 +29,16 @@ const HomePage = (props) => {
     setInvoiceNumber(number);
   }
 
+  const setDocType = (ele) => {
+    setPrintType(ele);
+  }
+
   return (
     <div className={classes.full_width}>
-      <h1 className={classes.h1}>Welcome to billing page</h1>
+      <h1 className={classes.h1}>😊😊Welcome to billing page😊😊</h1>
       <div>
         <AllInputs
+          setType = {setDocType}
           sellerData={data}
           selectSeller={selectSeller}
           setDetails={setDetails}
@@ -40,6 +46,7 @@ const HomePage = (props) => {
           setNumber={setNumber}
         />
         <SampleOutput
+          docType = {printType}
           details={productDetails}
           sellerDetails={selectedSeller}
           productDetails={productDetails}
