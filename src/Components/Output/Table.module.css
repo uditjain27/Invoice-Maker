@@ -63,9 +63,9 @@
 
 .second>span,
 .third>span{
-  min-width: 145px;
+  min-width: 149px;
   font-size: 10px;
-  padding: 5px;
+  padding: 2px 0 2px 7px;
 }
 
 .second>span:first-child,

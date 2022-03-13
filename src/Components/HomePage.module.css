@@ -29,3 +29,22 @@
   height: 1774px; */
   background-color: #fff;
 }
+
+@media screen and (max-width: 800px) {
+  .full_width{
+    /*overflow-x: hidden;*/
+    margin: 0;
+    width: 100vw;
+  }
+  .full_width>div{
+    flex-direction: column;
+  }
+  .half_width{
+    width: 100vw;
+    margin: 0 3rem;
+  }
+  .half_width:last-child{
+    width: 100vw;
+    margin: 0;
+  }
+}

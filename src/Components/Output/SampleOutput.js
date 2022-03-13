@@ -3,7 +3,7 @@ import Canvas from './Canvas';
 import classes from './SampleOutput.module.css';
 
 const SampleOutput = (props) => {
-  const copyType = 'Transporter'
+  const copyType = 'BUYER';
   return (
     <div className={style.half_width} id='output'>
       <div className={classes.header}>

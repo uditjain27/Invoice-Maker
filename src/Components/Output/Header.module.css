@@ -19,7 +19,7 @@
 }
 
 .taxHeading{
-  margin-left: 105px;
+  margin-left: 125px;
   font-size: 13px;
   text-decoration: underline;
   font-weight: 700;
@@ -27,7 +27,8 @@
 
 .contact{
   float: right;
-  font-size: 8px;
+  font-size: 0.55rem;
+  font-weight: bolder;
 }
 
 .contact i{
