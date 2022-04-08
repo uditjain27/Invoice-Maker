@@ -101,7 +101,7 @@ export const data = [
     state: 'WEST BENGAL',
     stateCode: 19,
     gstin: '19ABAFA2122L1ZP',
-    transporter: 'PATEL FLIGHT',
+    transporter: 'JAY MAA AMBAY TRANSPORT',
     placeOfSupply: 'KOLKATA',
     description: 'GEORGETTE'
   },
@@ -114,6 +114,18 @@ export const data = [
     stateCode: 7,
     gstin: '07AEXPJ5246G1Z3',
     description: 'COTTON CLOTH'
+  },
+  {
+    id: 11,
+    name: 'ADAMS BOUTIQUE',
+    address: 'NO. 43, J BLOCK, VINAYAGAPURAM MAIN ROAD, MMDA COLONY, ARUMBAKKAM, CHENNAI, TAMIL NADU - 600106',
+    contactNo: 9952888564,
+    state: 'TAMIL NADU',
+    stateCode: 33,
+    gstin: '33FNAPS6454L1ZJ',
+    transporter: 'SHREE VENKATESHWARA CARGO ',
+    placeOfSupply: 'TAMIL NADU',
+    description: 'COTTON FABRIC'
   },
   // {
   //   id: 10,
