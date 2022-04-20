@@ -193,7 +193,7 @@ const AllInputs = (props) => {
           <div>
             <label htmlFor='printType'>Copy Type : </label>
             <span>
-              <input type='radio' value='buyer'  name='copytype' id='buyer' onChange={radioOnChange} checked='true'></input>
+              <input type='radio' value='buyer'  name='copytype' id='buyer' onChange={radioOnChange} checked={true}></input>
               <label htmlFor='buyer'>Buyer</label>
             </span>
             <span>

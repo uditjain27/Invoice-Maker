@@ -3,7 +3,7 @@ import SampleOutput from "./Output/SampleOutput";
 
 import classes from './HomePage.module.css';
 import { data } from "./DataBase";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const HomePage = (props) => {
 

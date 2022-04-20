@@ -127,6 +127,18 @@ export const data = [
     placeOfSupply: 'TAMIL NADU',
     description: 'COTTON FABRIC'
   },
+  {
+    id: 12,
+    name: 'SORAV TEXTILES',
+    address: '3005-3006, NEW PASHUPATI TEXTILE MARKET, RING ROAD, SURAT - 395002',
+    contactNo: 8200742097,
+    state: 'GUJARAT',
+    stateCode: 24,
+    gstin: '24ACGPJ4405Q1ZG',
+    transporter: 'NEW NORTHWAYS TRANSPORT',
+    placeOfSupply: 'SURAT',
+    description: 'COTTON FABRIC'
+  }
   // {
   //   id: 10,
   //   name: '',
