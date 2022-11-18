@@ -138,6 +138,18 @@ export const data = [
     transporter: 'NEW NORTHWAYS TRANSPORT',
     placeOfSupply: 'SURAT',
     description: 'COTTON FABRIC'
+  },
+  {
+    id: 13,
+    name: 'M/s Ram Kumar Contractor Pvt. Ltd.',
+    address: 'Dehradun Road, Village-Mohand, Near Police Check Post of Mohand, Tehsil Behat, Saharanpur, UP-247662',
+    contactNo: 9215511764,
+    state: 'UTTAR PRADESH',
+    stateCode: 9,
+    gstin: '09AAGCR4421H1ZE',
+    transporter: 'U.P. DELHI TRANSPORT',
+    placeOfSupply: 'UTTAR PRADESH',
+    description: 'WASTE FABRIC'
   }
   // {
   //   id: 10,
