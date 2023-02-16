@@ -150,6 +150,18 @@ export const data = [
     transporter: 'U.P. DELHI TRANSPORT',
     placeOfSupply: 'UTTAR PRADESH',
     description: 'WASTE FABRIC'
+  },
+  {
+    id: 14,
+    name: 'Fashion Dying',
+    address: 'P.NO. 54, JAGDISH COLONY, RAMGARH MOAD, JAIPUR, RAJASTHAN - 302003',
+    contactNo: 9414079217,
+    state: 'RAJASTHAN',
+    stateCode: 8,
+    gstin: '08AGZPK4490R1Z3',
+    transporter: 'GANPATI TRANSPORT',
+    placeOfSupply: 'RAJASTHAN',
+    description: 'COTTON FABRIC'
   }
   // {
   //   id: 10,
