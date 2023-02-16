@@ -153,7 +153,7 @@ export const data = [
   },
   {
     id: 14,
-    name: 'Fashion Dying',
+    name: 'FASHION DYING',
     address: 'P.NO. 54, JAGDISH COLONY, RAMGARH MOAD, JAIPUR, RAJASTHAN - 302003',
     contactNo: 9414079217,
     state: 'RAJASTHAN',
