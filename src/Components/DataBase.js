@@ -13,24 +13,24 @@ export const data = [
   {
     id: 2,
     name: 'PAYAL TEXTILE',
-    address : 'P. No. 29, Heera Colony, Ramgarh Road, Jaipur, Rajasthan - 302003',
+    address: 'P. No. 29, Heera Colony, Ramgarh Road, Jaipur, Rajasthan - 302003',
     contactNo: 'NULL',
     state: 'RAJASTHAN',
     stateCode: 8,
     gstin: '08BQBPK3484J1ZL',
-    transporter : 'GANPATI TRANSPORT',
+    transporter: 'GANPATI TRANSPORT',
     description: 'COTTON FABRIC'
   },
   {
     id: 3,
     name: 'VAIBHAV TEXTILE',
-    address : 'PILI KOTHI, GURIABAGH, ALIGARH',
+    address: 'PILI KOTHI, GURIABAGH, ALIGARH',
     contactNo: 8445220250,
     state: 'UTTAR PRADESH',
     stateCode: 9,
     gstin: 'NULL',
-    aadhar : 837875902801,
-    transporter: 'ROSHAN TEMPO SERVICE',
+    aadhar: 837875902801,
+    transporter: 'OM SAI RAM TRANSPORTER',
     description: 'WASTE COTTON CLOTH'
   },
   {
@@ -67,6 +67,19 @@ export const data = [
     aadhar: 448331441961,
     transporter: 'Happy Transport',
     placeOfSupply: 'JAIPUR',
+    description: 'WASTE COTTON FABRIC'
+  },
+  {
+    id: 15,
+    name: 'MOHD FAROOQ ALVI',
+    address: 'ALIGARH',
+    contactNo: 9027229396,
+    state: 'UTTAR PRADESH',
+    stateCode: 9,
+    gstin: 'NULL',
+    aadhar: 608119863556,
+    transporter: 'OM SAI RAM TRANSPORTER',
+    placeOfSupply: 'UTTAR PRADESH',
     description: 'WASTE COTTON FABRIC'
   },
   {
