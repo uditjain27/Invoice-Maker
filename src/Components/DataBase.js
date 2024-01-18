@@ -70,19 +70,6 @@ export const data = [
     description: 'WASTE COTTON FABRIC'
   },
   {
-    id: 15,
-    name: 'MOHD FAROOQ ALVI',
-    address: 'ALIGARH',
-    contactNo: 9027229396,
-    state: 'UTTAR PRADESH',
-    stateCode: 9,
-    gstin: 'NULL',
-    aadhar: 608119863556,
-    transporter: 'OM SAI RAM TRANSPORTER',
-    placeOfSupply: 'UTTAR PRADESH',
-    description: 'WASTE COTTON FABRIC'
-  },
-  {
     id: 7,
     name: 'A ONE COLLECTION',
     address: '3481, Nahargarh Road, Near Nimri Ploce Chowki, Jaipur, Rajasthan',
@@ -178,6 +165,19 @@ export const data = [
   },
   {
     id: 15,
+    name: 'MOHD FAROOQ ALVI',
+    address: 'ALIGARH',
+    contactNo: 9027229396,
+    state: 'UTTAR PRADESH',
+    stateCode: 9,
+    gstin: 'NULL',
+    aadhar: 608119863556,
+    transporter: 'OM SAI RAM TRANSPORTER',
+    placeOfSupply: 'UTTAR PRADESH',
+    description: 'WASTE COTTON FABRIC'
+  },
+  {
+    id: 16,
     name: 'SEERAT FASHION',
     address: '41/3 MAIN ROAD, EAST AZAD NAGAR, KRISHNA NAGAR, DELHI - 110051',
     contactNo: 9213922856,
