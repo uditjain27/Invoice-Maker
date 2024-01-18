@@ -175,6 +175,16 @@ export const data = [
     transporter: 'GANPATI TRANSPORT',
     placeOfSupply: 'RAJASTHAN',
     description: 'COTTON FABRIC'
+  },
+  {
+    id: 15,
+    name: 'SEERAT FASHION',
+    address: '41/3 MAIN ROAD, EAST AZAD NAGAR, KRISHNA NAGAR, DELHI - 110051',
+    contactNo: 9213922856,
+    state: 'DELHI',
+    stateCode: 7,
+    gstin: '07PSNPS4215R1ZI',
+    description: 'COTTON FABRIC'
   }
   // {
   //   id: 10,
