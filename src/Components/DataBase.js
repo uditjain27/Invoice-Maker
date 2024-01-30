@@ -185,6 +185,18 @@ export const data = [
     stateCode: 7,
     gstin: '07PSNPS4215R1ZI',
     description: 'COTTON FABRIC'
+  },
+  {
+    id: 17,
+    name: 'KARTIKA TEX',
+    address: 'No. 1A, Grace Garden Main Street, Royapuram, Chennai - 600013',
+    contactNo: 9884763148,
+    state: 'TAMIL NADU',
+    stateCode: 33,
+    gstin: '33DQWPM7367H1Z4',
+    transporter: 'SHREE VENKATESHWARA CARGO ',
+    placeOfSupply: 'TAMIL NADU',
+    description: 'COTTON FABRIC'
   }
   // {
   //   id: 10,
