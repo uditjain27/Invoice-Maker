@@ -204,7 +204,7 @@ export const data = [
     address: 'SH-49, Vill Dittanpur, Dhampur-Moradabad Road, Dhampur, Bijnor - 246761',
     contactNo: 9457469210,
     state: 'UTTAR PRADESH',
-    stateCode: 09,
+    stateCode: 9,
     gstin: '09AAZFR3683B1ZN',
     transporter: 'JAI BHARAT TRANSPORT',
     placeOfSupply: 'UTTAR PRADESH',
