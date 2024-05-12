@@ -197,6 +197,18 @@ export const data = [
     transporter: 'SHREE VENKATESHWARA CARGO ',
     placeOfSupply: 'TAMIL NADU',
     description: 'COTTON FABRIC'
+  },
+  {
+    id: 18,
+    name: 'RAM AUTO SALES',
+    address: 'SH-49, Vill Dittanpur, Dhampur-Moradabad Road, Dhampur, Bijnor - 246761',
+    contactNo: 9457469210,
+    state: 'UTTAR PRADESH',
+    stateCode: 09,
+    gstin: '09AAZFR3683B1ZN',
+    transporter: 'JAI BHARAT TRANSPORT',
+    placeOfSupply: 'UTTAR PRADESH',
+    description: 'COTTON FABRIC'
   }
   // {
   //   id: 10,
