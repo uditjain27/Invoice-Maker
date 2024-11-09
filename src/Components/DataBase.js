@@ -209,6 +209,18 @@ export const data = [
     transporter: 'JAI BHARAT TRANSPORT',
     placeOfSupply: 'UTTAR PRADESH',
     description: 'COTTON FABRIC'
+  },
+  {
+    id: 19,
+    name: 'Ram Kumar Contractor Pvt. Ltd.',
+    address: 'Near Volkswagen Showroom, Ambala-Saharanpur Highway, Village Khuda Kalan, Ambala, Harayana - 133104',
+    contactNo: 9254728645,
+    state: 'HARYANA',
+    stateCode: 6,
+    gstin: '06AAGCR4421H1ZK',
+    transporter: 'KHUSH DIL TRANSPORT',
+    placeOfSupply: 'HARYANA',
+    description: 'WASTE FABRIC'
   }
   // {
   //   id: 10,
