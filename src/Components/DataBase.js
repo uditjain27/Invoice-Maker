@@ -221,6 +221,18 @@ export const data = [
     transporter: 'KHUSH DIL TRANSPORT',
     placeOfSupply: 'HARYANA',
     description: 'WASTE FABRIC'
+  },
+  {
+    id: 20,
+    name: 'Karthika Tex',
+    address: 'No. 1A Grace Garden Main Street, Royapuram, Chennai - 600013',
+    contactNo: 9884763148,
+    state: 'Tamil Nadu',
+    stateCode: 33,
+    gstin: '33DQWPM7357H1Z4',
+    transporter: 'SHREE VENKATESHWARA CARGO ',
+    placeOfSupply: 'TAMIL NADU',
+    description: 'FABRIC'
   }
   // {
   //   id: 10,
