@@ -224,12 +224,12 @@ export const data = [
   },
   {
     id: 20,
-    name: 'Karthika Tex',
-    address: 'No. 1A Grace Garden Main Street, Royapuram, Chennai - 600013',
-    contactNo: 9884763148,
+    name: 'SRI ANGALAMMAN TRADERS',
+    address: 'New No. 36, Old No. 71/1, Kappal Polu Street, Old Washermanpet, Chennai - 600021',
+    contactNo: 9841723636,
     state: 'Tamil Nadu',
     stateCode: 33,
-    gstin: '33DQWPM7357H1Z4',
+    gstin: '33FLYPM06933B1ZT',
     transporter: 'SHREE VENKATESHWARA CARGO ',
     placeOfSupply: 'TAMIL NADU',
     description: 'FABRIC'
