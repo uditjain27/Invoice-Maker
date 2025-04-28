@@ -233,6 +233,16 @@ export const data = [
     transporter: 'SHREE VENKATESHWARA CARGO ',
     placeOfSupply: 'TAMIL NADU',
     description: 'FABRIC'
+  },
+  {
+    id: 21,
+    name: 'SHUBHAM CLOTH HOUSE',
+    address: '9/5062, Gali Number 18, Shanti Moholla, Gandhi Nagar, Delhi - 110031',
+    contactNo: 9268422574,
+    state: 'DELHI',
+    stateCode: 7,
+    gstin: '07AASPU6837F1Z0',
+    description: 'WASTE COTTON FABRIC'
   }
   // {
   //   id: 10,
