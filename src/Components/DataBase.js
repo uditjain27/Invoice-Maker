@@ -243,6 +243,18 @@ export const data = [
     stateCode: 7,
     gstin: '07AASPU6837F1Z0',
     description: 'WASTE COTTON FABRIC'
+  },
+  {
+    id: 22,
+    name: 'SRI SELVA GANAPATHI TEX',
+    address: 'Old No. 6, New No. 19, Singaragarden 5th Lane, Old Washermenpet, Chennai - 21',
+    contactNo: 9551829723,
+    state: 'Tamil Nadu',
+    stateCode: 33,
+    gstin: '33CALPR8273F1ZB',
+    transporter: 'SHREE VENKATESHWARA CARGO',
+    placeOfSupply: 'TAMIL NADU',
+    description: 'FABRIC'
   }
   // {
   //   id: 10,
