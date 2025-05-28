@@ -214,7 +214,7 @@ export const data = [
     id: 19,
     name: 'Ram Kumar Contractor Pvt. Ltd.',
     address: 'Near Volkswagen Showroom, Ambala-Saharanpur Highway, Village Khuda Kalan, Ambala, Harayana - 133104',
-    contactNo: 9254728645,
+    contactNo: 8628022944,
     state: 'HARYANA',
     stateCode: 6,
     gstin: '06AAGCR4421H1ZK',
