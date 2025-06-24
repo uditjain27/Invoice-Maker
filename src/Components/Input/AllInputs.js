@@ -221,7 +221,7 @@ const AllInputs = (props) => {
         <div className={classes.descriptionList} id='description-details'>
           <div>
             <label>Description : </label>
-            <input type='text' ref={descriptionRef} defaultValue='COTTON FABRIC'></input>
+            <input type='text' ref={descriptionRef} defaultValue='CHINDI FABRIC'></input>
           </div>
           <div>
             <label>HSN Code : </label>
