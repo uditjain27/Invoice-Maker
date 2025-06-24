@@ -113,7 +113,7 @@ export const data = [
     state: 'DELHI',
     stateCode: 7,
     gstin: '07AEXPJ5246G1Z3',
-    description: 'COTTON CLOTH'
+    description: 'CHINDI FABRIC'
   },
   {
     id: 11,
