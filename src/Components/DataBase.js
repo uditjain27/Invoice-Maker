@@ -255,6 +255,18 @@ export const data = [
     transporter: 'SHREE VENKATESHWARA CARGO',
     placeOfSupply: 'TAMIL NADU',
     description: 'FABRIC'
+  },
+  {
+    id: 23,
+    name: 'SUNSHINE ENGINEERING WORKS',
+    address: 'Anoop Shaher Road, Aligarh, U.P. - 202002',
+    contactNo: 9625639316,
+    state: 'UTTAR PRADESH',
+    stateCode: 9,
+    gstin: '09AVXPA7125J1Z4',
+    transporter: 'OM SAI RAM TRANSPORTER',
+    placeOfSupply: 'UTTAR PRADESH',
+    description: 'WASTE COTTON CLOTH'
   }
   // {
   //   id: 10,
