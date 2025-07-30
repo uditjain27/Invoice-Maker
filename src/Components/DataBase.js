@@ -267,6 +267,16 @@ export const data = [
     transporter: 'OM SAI RAM TRANSPORTER',
     placeOfSupply: 'UTTAR PRADESH',
     description: 'WASTE COTTON CLOTH'
+  },
+  {
+    id: 24,
+    name: 'JEETU ENTERPRISES',
+    address: '3938, GALI NO. 2, SHANTI MOHOLLA, GANDHI NAGAR, DELHI - 110031',
+    contactNo: 7982924582,
+    state: 'DELHI',
+    stateCode: 7,
+    gstin: '07IPIPS4477E1ZB',
+    description: 'COTTON FABRIC'
   }
   // {
   //   id: 10,
