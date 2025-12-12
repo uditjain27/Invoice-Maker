@@ -141,8 +141,8 @@ export const data = [
   },
   {
     id: 13,
-    name: 'M/s Ram Kumar Contractor Pvt. Ltd.',
-    address: 'Dehradun Road, Village-Mohand, Near Police Check Post of Mohand, Tehsil Behat, Saharanpur, UP-247662',
+    name: 'RKCPL LTD.',
+    address: 'Late Pravesh Chander Village, Tehsil Behat, Mouza Ganeshpur, Saharanpur, UP-247662',
     contactNo: 9215511764,
     state: 'UTTAR PRADESH',
     stateCode: 9,
