@@ -213,7 +213,7 @@ export const data = [
   {
     id: 19,
     name: 'RKCPL LTD.',
-    address: 'Near Volkswagen Showroom, Ambala-Saharanpur Highway, Village Khuda Kalan, Ambala, Harayana - 133104',
+    address: 'Near Volkswagen Showroom, Ambala-Saharanpur Highway, Village Khuda Kalan, Ambala Cant., Harayana - 133104',
     contactNo: 8628022944,
     state: 'HARYANA',
     stateCode: 6,
