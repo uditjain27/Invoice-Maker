@@ -188,7 +188,7 @@ export const data = [
   },
   {
     id: 17,
-    name: 'KARTIKA TEX',
+    name: 'KARTHIKA TEX',
     address: 'No. 1A, Grace Garden Main Street, Royapuram, Chennai - 600013',
     contactNo: 9884763148,
     state: 'TAMIL NADU',
@@ -196,7 +196,7 @@ export const data = [
     gstin: '33DQWPM7367H1Z4',
     transporter: 'SHREE VENKATESHWARA CARGO ',
     placeOfSupply: 'TAMIL NADU',
-    description: 'COTTON FABRIC'
+    description: 'RAYON CRAPE PRINT'
   },
   {
     id: 18,
