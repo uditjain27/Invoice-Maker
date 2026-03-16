@@ -277,6 +277,18 @@ export const data = [
     stateCode: 7,
     gstin: '07IPIPS4477E1ZB',
     description: 'COTTON FABRIC'
+  },
+  {
+    id: 25,
+    name: 'SHAN ALVI',
+    address: 'ALIGARH',
+    state: 'UTTAR PRADESH',
+    stateCode: 9,
+    gstin: 'NULL',
+    aadhar: 853585837336,
+    transporter: 'Om Sai Transport Com.',
+    placeOfSupply: 'ALIGARH',
+    description: 'WASTE COTTON FABRIC'
   }
   // {
   //   id: 10,
