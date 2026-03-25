@@ -289,6 +289,18 @@ export const data = [
     transporter: 'Om Sai Transport Com.',
     placeOfSupply: 'ALIGARH',
     description: 'WASTE COTTON FABRIC'
+  },
+  {
+    id: 26,
+    name: 'GOLDEN FABS',
+    address: '#21, (Old #5) Singara Garden 6th Lane, 2nd Floor, Old Washermenpet, Chennai - 21',
+    contactNo: 9444029650,
+    state: 'Tamil Nadu',
+    stateCode: 33,
+    gstin: '33AZTPJ6513B1ZJ',
+    transporter: 'JAIPUR GOLDEN TRANSPORT',
+    placeOfSupply: 'TAMIL NADU',
+    description: 'FABRIC'
   }
   // {
   //   id: 10,
