@@ -301,6 +301,16 @@ export const data = [
     transporter: 'JAIPUR GOLDEN TRANSPORT',
     placeOfSupply: 'TAMIL NADU',
     description: 'FABRIC'
+  },
+  {
+    id: 27,
+    name: 'UNIQUE FABRICS',
+    address: 'IX/5027-A, Kaushik Puri, Shanti Moholla, Gandhi Nagar, Delhi - 110031',
+    contactNo: 9212798364,
+    state: 'DELHI',
+    stateCode: 7,
+    gstin: '07AFTPJ5705R1ZM',
+    description: 'FABRIC'
   }
   // {
   //   id: 10,
